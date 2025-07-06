@@ -7,6 +7,6 @@ public class IndexRepository
 {
     public String index()
     {
-        return "Index Repository";
+        return "Index repository";
     }
 }
